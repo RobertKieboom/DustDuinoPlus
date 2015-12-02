@@ -1,5 +1,5 @@
-# DustDuinoPlus
-First Commit for the Sensor Day
+# DustDuino+
+First Commit for the "Sensing the City" Makers Event in The Netherlands
 
 This project builds upon the DustDuino project, which provides a dust sensor for Arduino.
 
@@ -13,3 +13,8 @@ The DustDuino+ adds some features:
 Credits:
 - Matthew Schroyer; https://github.com/NodeJournalism/DustDuino/blob/master/DustDuino.ino
 - Adafruit (WIFI, DHT code)
+
+Copy the sketches and libraries folders to you arduino base folder.
+If you already have the wifi and/or DHT libraries, you can leave these out.
+
+Sense your environment; happy making!
